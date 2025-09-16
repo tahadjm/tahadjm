@@ -6,7 +6,7 @@ I’m an indie full-stack developer and recent Computer Science graduate, passio
 
    <p align="left">
       <a href="https://www.linkedin.com/in/taha-djemili-595540308">
-         <img alt="linkedIn profile" title="Follow me on LinkedId" src="https://www.linkedin.com/in/taha-djemili-595540308/](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg)"/></a> 
+         <img alt="linkedIn profile" title="Follow me on LinkedId" src="[https://www.linkedin.com/in/taha-djemili-595540308/](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg))"/></a> 
       <a href="https://github.com/tahadjm?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://github.com/tahadjm?tab=followers](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)"/></a>
       <a href="https://github.com/tahadjm?tab=repositories&sort=stargazers">
