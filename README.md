@@ -5,10 +5,10 @@
 I’m an indie full-stack developer and recent Computer Science graduate, passionate about building end-to-end digital solutions. I design and develop projects from the ground up—covering planning, architecture, and implementation—while focusing on solving real-world problems through clean, scalable, and user-friendly code.
 
    <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="linkedIn profile" title="Follow me on LinkedId" src="https://www.linkedin.com/in/taha-djemili-595540308/"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://github.com/tahadjm?tab=followers"/></a>
+      <a href="https://www.linkedin.com/in/taha-djemili-595540308">
+         <img alt="linkedIn profile" title="Follow me on LinkedId" src="https://www.linkedin.com/in/taha-djemili-595540308/](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg)"/></a> 
+      <a href="https://github.com/tahadjm?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://github.com/tahadjm?tab=followers](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)"/></a>
       <a href="https://github.com/tahadjm?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tahadjm?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
