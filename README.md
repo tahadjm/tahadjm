@@ -2,7 +2,7 @@
 
 **`FULL STACK WEB/MOBILE DEVELOPER`**
 
-I’m an indie full-stack developer and recent Computer Science graduate, passionate about building end-to-end digital solutions. I design and develop projects from the ground up—covering planning, architecture, and implementation—while focusing on solving real-world problems through clean, scalable, and user-friendly code.
+I’m full-stack developer and recent Computer Science graduate, passionate about building end-to-end digital solutions. I design and develop projects from the ground up—covering planning, architecture, and implementation—while focusing on solving real-world problems through clean, scalable, and user-friendly code.
 
    <p align="left">
       <a href="https://github.com/tahadjm?tab=repositories&sort=stargazers">
